@@ -41,7 +41,7 @@ A modern, responsive portfolio website built with cutting-edge web technologies.
 - Deployment tracking
 - Error logging
 - Internship applications
-- Photography images
+- Photography images (Will be added soon)
 
 ### Project Structure
 ```
@@ -69,16 +69,8 @@ npm run dev
 ## Deployment
 
 The project can be deployed through:
-1. Lovable's built-in deployment feature
-2. Manual deployment to platforms like Netlify
+1. Deployed using Netlify and using Supabase for the backend
 
-## Environment Variables
-
-The following environment variables are required:
-- `SUPABASE_URL`
-- `SUPABASE_ANON_KEY`
-- `NOTION_TOKEN` (for internship tracking)
-- `NOTION_DATABASE_ID` (for internship tracking)
 
 ## Contributing
 
@@ -88,6 +80,3 @@ The following environment variables are required:
 4. Push to the branch
 5. Create a new Pull Request
 
-## License
-
-This project is licensed under the MIT License.
