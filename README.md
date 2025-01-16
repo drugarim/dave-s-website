@@ -69,8 +69,7 @@ npm run dev
 ## Deployment
 
 The project can be deployed through:
-1. Lovable's built-in deployment feature
-2. Manual deployment to platforms like Netlify
+1. Deployed through Netlify with Supabase as the database
 
 ## Environment Variables
 
